@@ -11,8 +11,8 @@ Hi there! I am Faizal Nugraha, I am Backend pixel perfectionist developer from B
 
 ### &nbsp;
 
-<a href="mailto:f4154lt@yahoo.co.id"><img alt="Mail" src="https://img.shields.io/badge/-Send%20me%20an%20Email-000000?style=for-the-badge&logo=yahoo" /></a>
-<a href="https://www.linkedin.com/in/fzldn/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn%20Profile-000000?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:f4154lt@yahoo.co.id"><img alt="Mail" src="https://img.shields.io/badge/-Send%20me%20an%20Email-551CCA?style=for-the-badge&logo=yahoo" /></a>
+<a href="https://www.linkedin.com/in/fzldn/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn%20Profile-2F66BC?style=for-the-badge&logo=linkedin" /></a>
 
 ### Tech Stack
 <p>
