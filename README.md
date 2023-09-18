@@ -1,13 +1,8 @@
 ## Whoops! you found me here 🙈
 
-Hi there! I am Faizal Nugraha, I am Backend pixel perfectionist developer from Bandung, ID 🇮🇩 UTC+7 🕖
+Hi there! I am Faizal Nugraha, I am Full-Stack web developer from Bandung, ID 🇮🇩 UTC+7 🕖
 
 🏠 Working remotely since late of 2017
-
-📖 Currently learning
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-555555?style=flat&logo=nodedotjs&labelColor=333333" />
-<img alt="Express" src="https://img.shields.io/badge/-Express-555555?style=flat&logo=express" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-555555?style=flat&logo=mongodb&labelColor=273742" />
 
 ---
 
